@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil! 👋
+# Bem-vindo ao meu perfil! 👋
 
 Olá! Sou um estudante de Ciência da Computação na Faculdade UniAmérica Descomplica e estou mergulhando nas maravilhas do CS50 de Harvard. 💻 Atualmente, estou trabalhando no site da empresa da minha família, o [Espeto Aleggra](https://espetoaleggra.com), trazendo um toque de tecnologia para a tradição culinária!
 
