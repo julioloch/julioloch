@@ -2,12 +2,14 @@
 
 Olá! Sou um estudante de Ciência da Computação na Faculdade UniAmérica Descomplica e estou mergulhando nas maravilhas do CS50 de Harvard. 💻 Atualmente, estou trabalhando no site da empresa da minha família, o [Espeto Aleggra](https://espetoaleggra.com), trazendo um toque de tecnologia para a tradição culinária!
 
+
 ## Sobre Mim
 
 🌱 Estou sempre aprendendo e explorando novas áreas da computação.
 Atualmente, estou estudando C no cs50, Java na Descomplica, e, para um projeto pessoal estudo HTML, CSS e um pouquinho de Javascript. Pretendo também implementar nesse projeto tecnologias como Typescript e React.js.
 
-💡 Além da programação, também sou um designer autodidata! e tenho boa familiaridade com o pacote Adobe.
+💡 Além da programação, também sou um designer autodidata desde muito cedo. Por isso tenho boa familiaridade com o pacote Adobe e um bom senso artístico.
+
 
 ## Hobby: Impressão 3D e CNC 🖨️
 
