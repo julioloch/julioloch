@@ -1,15 +1,14 @@
 # Bem-vindo ao meu perfil! 👋
 
-Olá! Sou um estudante de Ciência da Computação na Faculdade UniAmérica Descomplica e estou mergulhando nas maravilhas do CS50 de Harvard. 💻 Atualmente, estou trabalhando no site da empresa da minha família, o [Espeto Aleggra](https://espetoaleggra.com), trazendo um toque de tecnologia para a tradição culinária!
+Olá! Sou um estudante de Ciência da Computação na Faculdade UniAmérica Descomplica e estou mergulhando nas maravilhas do CS50 de Harvard. 💻 Atualmente, estou trabalhando no site da empresa da minha família, o [Espeto Aleggra](https://espetoaleggra.com).
 
 
 ## Sobre Mim
 
 🌱 Estou sempre aprendendo e explorando novas áreas da computação.
-Atualmente, estou estudando C no cs50, Java na Descomplica, e, para um projeto pessoal estudo HTML, CSS e um pouquinho de Javascript. Pretendo também implementar nesse projeto tecnologias como Typescript e React.js.
+Atualmente, estou estudando C, Java e Python no cs50 e na Descomplica, e, para um projeto pessoal, estudo HTML, CSS e um pouquinho de Javascript. Pretendo também implementar nesse projeto tecnologias como Typescript e React.js.
 
-💡 Além da programação, também sou um designer autodidata desde muito cedo. Por isso tenho boa familiaridade com o pacote Adobe e um bom senso artístico.
-
+💡 Além da programação, também sou designer autodidata desde muito cedo. Por isso tenho boa familiaridade com o pacote Adobe e um bom senso artístico.
 
 ## Hobby: Impressão 3D e CNC 🖨️
 
@@ -22,4 +21,4 @@ Quando não estou codificando ou projetando, você provavelmente me encontrará 
 Contato
 🔗 [LinkedIn](https://www.linkedin.com/in/julioloch/)
 
-Sinta-se à vontade para explorar meus projetos e entrar em contato! Vamos criar coisas incríveis juntos! 😊
+Sinta-se à vontade para explorar meus projetos e entrar em contato!
